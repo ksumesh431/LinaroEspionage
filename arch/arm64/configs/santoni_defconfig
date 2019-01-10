@@ -1,4 +1,4 @@
-#
+w#
 # Automatically generated file; DO NOT EDIT
 # Linux/arm64 3.18.71 Kernel Configuration
 CONFIG_ARM64=y
@@ -1068,7 +1068,7 @@ CONFIG_RFKILL_INPUT=y
 CONFIG_IPC_ROUTER=y
 CONFIG_IPC_ROUTER_SECURITY=y
 CONFIG_HAVE_BPF_JIT=y
-
+CONFIG_AUTOSMP=y
 #
 # Device Drivers
 #
